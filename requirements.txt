@@ -1,9 +1,11 @@
 fastapi==0.115.12
 uvicorn==0.34.0
 scikit-learn==1.5.2
+feature-engine==1.8.2
 joblib
 pandas
 sqlalchemy
+
 #numpy
 #
-#feature-engine==1.8.2
+#
