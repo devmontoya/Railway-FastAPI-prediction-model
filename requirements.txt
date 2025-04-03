@@ -1,0 +1,8 @@
+fastapi==0.115.12
+uvicorn==0.34.0
+scikit-learn==1.5.2
+joblib
+pandas
+#numpy
+#
+#feature-engine==1.8.2
