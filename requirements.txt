@@ -5,7 +5,3 @@ feature-engine==1.8.2
 joblib
 pandas
 sqlalchemy
-
-#numpy
-#
-#

@@ -1,8 +1,14 @@
 # Railway-FastAPI-prediction-model
 
+## Link del despliegue actual en **Railway**
+
+https://railway-fastapi-prediction-model-production.up.railway.app/docs
 
 
-`python -m venv venv`
+## Pasos para realizar un despliegue localmente
 
+- `python -m venv venv`
 
-`uvicorn app:app --reload`
+- `pip install -r requirements.txt`
+
+- `uvicorn app:app --reload`
